@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="center">
-&nbsp&nbsp📑 <a href="https://arxiv.org/abs/2603.18429"><b>Paper</b></a>&nbsp&nbsp | &nbsp&nbsp🏠 <a href="#"><b>Project Page</b></a>&nbsp&nbsp | 🤗 <a href="#"><b>Hugging Face</b></a>&nbsp&nbsp | 🤖 <a href="#"><b>Model Scope</b></a>&nbsp&nbsp
+&nbsp&nbsp📑 <a href="https://arxiv.org/abs/2603.18429"><b>Paper</b></a>&nbsp&nbsp | &nbsp&nbsp🏠 <a href="#"><b>Project Page</b></a>&nbsp&nbsp | 🤗 <a href="https://huggingface.co/datasets/CVC2233/AndroTMem-Bench"><b>Hugging Face</b></a>&nbsp&nbsp | 🤖 <a href="#"><b>Model Scope</b></a>&nbsp&nbsp
 </p>
 <p align="center">
 If our project helps you, please give us a star ⭐ on GitHub to support us.
@@ -15,7 +15,7 @@ If our project helps you, please give us a star ⭐ on GitHub to support us.
 
 ## 📰 News
 
-* **`2026-03-19`** 🌟 We are happy to release the AndroTMem. You can find the AndroTMem from [![hf_checkpoint](https://img.shields.io/badge/🤗-AndroTMem--Bench-9C276A.svg?style=flat-square)](#).
+* **`2026-03-19`** 🌟 We are happy to release the AndroTMem. You can find the AndroTMem from [![hf_checkpoint](https://img.shields.io/badge/🤗-AndroTMem--Bench-9C276A.svg?style=flat-square)](https://huggingface.co/datasets/CVC2233/AndroTMem-Bench).
 
 
 ---
