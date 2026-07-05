@@ -15,6 +15,7 @@ If our project helps you, please give us a star ⭐ on GitHub to support us.
 
 ## 📰 News
 
+* **`2026-07-05`** 🚀 We released the inference and evaluation scripts for AndroTMem-Bench, including GPT-4o/Qwen2.5-VL inference and AMS/TCR evaluation.
 * **`2026-03-19`** 🌟 We are happy to release the AndroTMem. You can find the AndroTMem from [![hf_checkpoint](https://img.shields.io/badge/🤗-AndroTMem--Bench-9C276A.svg?style=flat-square)](https://huggingface.co/datasets/CVC2233/AndroTMem-Bench).
 
 
