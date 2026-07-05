@@ -1,0 +1,9 @@
+jsonlines
+tqdm
+json-repair
+Pillow
+openai
+torch
+transformers
+qwen-vl-utils
+accelerate
