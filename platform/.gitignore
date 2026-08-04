@@ -1,0 +1,13 @@
+**/.DS_Store
+
+Friday_backend/data/
+Friday_backend/screenshots/
+Friday_backend/screenshots_tmp/
+Friday_backend/**/__pycache__/
+Friday_backend/**/*.py[cod]
+
+friday_flywheel/node_modules/
+friday_flywheel/dist/
+friday_flywheel/.env
+friday_flywheel/.env.local
+friday_flywheel/.env.*.local

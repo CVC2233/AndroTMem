@@ -1,0 +1,11 @@
+imgs_all
+screenshots_tmp
+screenshots_tmp_new
+app_new.log
+__pycache__/
+*.pyc
+venv/
+.env
+*.spec
+dist
+build
